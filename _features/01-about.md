@@ -2,7 +2,7 @@
 id: about
 name: About
 heading: This First Heading
-subheading: Catches Your Eye
+subheading: Will Catch Your Eye
 image: "http://placehold.it/500x500"
 ---
 
